@@ -30,6 +30,18 @@
       "type": "number"
     },
     {
+      "atomType": "Import",
+      "name": "Import",
+      "x": 0.39087301587301587,
+      "y": 0.7186629526462396,
+      "uniqueID": "89f7215a-c1a0-451f-bc30-7cb8a311425a",
+      "ioValues": [],
+      "fileName": "MakerCAM Project_copy1.svg",
+      "type": "SVG",
+      "repoOwner": "BarbourSmith",
+      "repoName": "Maslow-M"
+    },
+    {
       "atomType": "GitHubMolecule",
       "name": "Scale",
       "x": 0.5601851851851851,
@@ -129,18 +141,6 @@
       "unitsKey": "Unitless",
       "fileTypeVersion": 1,
       "compiledBom": []
-    },
-    {
-      "atomType": "Import",
-      "name": "Import",
-      "x": 0.39087301587301587,
-      "y": 0.7186629526462396,
-      "uniqueID": "89f7215a-c1a0-451f-bc30-7cb8a311425a",
-      "ioValues": [],
-      "fileName": "MakerCAM Project_copy1.svg",
-      "type": "SVG",
-      "repoOwner": "BarbourSmith",
-      "repoName": "Maslow-M"
     }
   ],
   "allConnectors": [
@@ -151,16 +151,16 @@
       "ap2ID": "60cbff66-4355-4f0b-befe-2379cbc3ba12"
     },
     {
-      "ap1Name": "geometry or number",
-      "ap2Name": "number or geometry",
-      "ap1ID": "60cbff66-4355-4f0b-befe-2379cbc3ba12",
-      "ap2ID": "bcc613eb-27e2-431c-9d0a-cee2acff3de6"
-    },
-    {
       "ap1Name": "output",
       "ap2Name": "Geometry",
       "ap1ID": "89f7215a-c1a0-451f-bc30-7cb8a311425a",
       "ap2ID": "60cbff66-4355-4f0b-befe-2379cbc3ba12"
+    },
+    {
+      "ap1Name": "geometry or number",
+      "ap2Name": "number or geometry",
+      "ap1ID": "60cbff66-4355-4f0b-befe-2379cbc3ba12",
+      "ap2ID": "bcc613eb-27e2-431c-9d0a-cee2acff3de6"
     }
   ],
   "unitsKey": "MM",
